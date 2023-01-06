@@ -1,0 +1,7 @@
+npm i express 
+npm i cors
+npm i body-parser
+const jsonParser = bodyParser.json()
+npm i mysql2
+npm i bcrypt
+npm i jsonwebtoken

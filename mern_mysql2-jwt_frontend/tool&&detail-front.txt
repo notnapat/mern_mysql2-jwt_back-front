@@ -1,0 +1,21 @@
+vite.js
+
+ติดตั้ง mui วิธีใน mui.com
+- Default installation
+- Icon install
+- ใช้ templates in mui.com
+  - Sign-in side
+  - Album
+  - Sign Up
+
+npm i react-router-dom
+
+in google >> fetch post 
+- ก็อปโค้ดใน Uploading JSON data ไปวางใน Login.jsx
+
+in google >> react localstorage
+- Tutorialspointhttps://www.tutorialspoint.com
+  - ไปที่ Syntax 
+    - ก็อปโค้ดใน //To store data วางใน Login.jsx
+
+ก็อปโค้ดใน Login.jsx >> มาวางใน Album.jsx > useEffect
